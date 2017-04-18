@@ -1,6 +1,6 @@
 1.	Download the Ubuntu iso (desktop not server) 
 2.	Run vmware , you’ll see something like this:
-
+<img src="https://ibb.co/eBSABQ"/>
 3.	Select “Create a New Virtual Machine”
 4.	Select “Installer disc image file” and browse to the Ubuntu iso 
 5.	Enter name, create username and password and hit next
