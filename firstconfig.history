@@ -1,0 +1,43 @@
+    1  sudo su
+    2  whoami
+    3  ps
+    4  ps aux| more
+    5  ps aux| grep firefox
+    6  kill 22865
+    7  ps aux| grep terminal
+    8  kill 23080
+    9  kill 22836
+   10  sudo su
+   11  man more
+   12  /terminal
+   13  lsof less
+   14  lsof| less
+   15  pstree
+   16  q
+   17  pstree| less
+   18  sudo su
+   19  /usr/bin/libreoffice&
+   20  clear
+   21  ls
+   22  ls /
+   23  ls -l
+   24  cd ~
+   25  cd desktop/
+   26  cd desktop
+   27  cd Desktop
+   28  echo "test" >> test.text
+   29  vim clear
+   30  cd ..
+   31  git clone https://github.com/Muhammadali3823/itc-136.git
+   32  cd itc-136
+   33  cd itc-136/
+   34  ls -ltra
+   35  cd .git
+   36  ls -la
+   37  cd ..
+   38  git config --global user. email "muhammadhamzahali@gmail.com"
+   39  git config --global user.email "muhammadhamzahali@gmail.com
+git config --global user.email "muhammadhamzahali@gmail.com"
+   40  git config --global user.email "muhammadhamzahali@gmail.com"
+   41  git config --global user.name "Muhammadali2823"
+   42  history >> firstconfig.history
