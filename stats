@@ -9,13 +9,13 @@ users=$( who | awk '{print $1}' )                         # Lists all users curr
 
 
 echo -en "This is a snapshot of your current system:
-         			\e[36m		Disk Used: $diskused
-                     		\e[95m		Free Memory: $memfree
-                     		\e[31m		Logged in Users: $users
-\e[46m
+         			\e[102m           Disk Used: $diskused
+                     		\e[103m           Free Memory: $memfree
+                     		\e[101m           Logged in Users: $users
+\e[105m
 Open Internet Connections: 
 $connections
-\e[49m
+\e[44m
 "
 
 #sleep 25
